@@ -1,5 +1,5 @@
 # node-red-solar-diverter [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?business=JRX9JK6SSY25N&no_recurring=0&item_name=Open+source+donations&currency_code=EUR)
-## _A combination of node-red flow and a minimal set of hardware that allows to divert solar generated energy to non electronic controlled devices, like a water heater or small heat accumulators._
+#### _A combination of node-red flow and a minimal set of hardware that allows to divert solar generated energy to non electronic controlled devices, like a water heater or small heat accumulators._
 
 ## Features
 
@@ -12,7 +12,7 @@
 
 ## Hardware
 
-You will need an AC Dimmer rated for the required duty. I've been using the one (16A) on the [following link](https://es.aliexpress.com/item/1005001965951718.html?spm=a2g0s.9042311.0.0.3cb763c0xwzS4K) with success with a 1500W water heater. Always when buying from chinese sources, chose a higher rating one. You should add an small fan to the heat-sink.
+You will need an AC Dimmer rated for the required duty. I've been using the one  on the [following link](https://es.aliexpress.com/item/1005001965951718.html?spm=a2g0s.9042311.0.0.3cb763c0xwzS4K) (16A) with success with a 1500W water heater. Always when buying from chinese sources, chose a higher rating one. You should add a small fan to the heat-sink.
 
 Then connect an ESP8266 to the dimmer and provide a suitable power source. You can power the board using a PSU or a phone charger.
 
@@ -41,9 +41,9 @@ You can setup several PID implementations with their own parameters and switch t
 ```
 
 ## TODOs:
-- Making it a node-red node. :)
+- Making it a node-red node. :grin:
 
 ## Contribution
 
-If that bit of work become useful to you, remember that you can make a donation or drop me a beer:
+If that bit of work become useful to you, remember that you can make a donation or drop me a :beer:
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?business=JRX9JK6SSY25N&no_recurring=0&item_name=Open+source+donations&currency_code=EUR)
