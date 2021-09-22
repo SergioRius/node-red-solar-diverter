@@ -1,7 +1,5 @@
 # node-red-solar-diverter [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?business=JRX9JK6SSY25N&no_recurring=0&item_name=Open+source+donations&currency_code=EUR)
-## _A node-red based solar diverter_
-
-This is a combination of node-red flow and a minimal set of hardware that allows to divert solar generated energy to non electronic controlled devices, like a water heater or small heat accumulators.
+## _A combination of node-red flow and a minimal set of hardware that allows to divert solar generated energy to non electronic controlled devices, like a water heater or small heat accumulators._
 
 ## Features
 
