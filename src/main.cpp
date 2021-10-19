@@ -125,6 +125,7 @@ void mqttCallback(char *topic, byte *payload, unsigned int length)
     {
       updateValue((byte)s_payload.toInt());
     }
+    lastReceived = millis();
   }
   else
   {
